@@ -11,9 +11,9 @@ export class AppComponent {
     title = 'Heroes App (Test)';
     public values: string[];
 
-    constructor(private http: Http) {
-        this.http.get('/api/values').subscribe(result => {
-            this.values = result.json() as string[];
-        }, error => console.error(error));
-    }
+    //constructor(private http: Http) {
+    //    this.http.get('/api/values').subscribe(result => {
+    //        this.values = result.json() as string[];
+    //    }, error => console.error(error));
+    //}
 }

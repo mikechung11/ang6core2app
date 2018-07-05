@@ -539,7 +539,7 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Projects_test\Angular6Core2App\Angular6Core2App\src\styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! C:\Projects_test\Angular6Core2App\App.Web\src\styles.css */"./src/styles.css");
 
 
 /***/ })

@@ -11512,11 +11512,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects_test\\Angular6Core2App\\Angular6Core2App\\Angular6Core2App.csproj",
-      "projectName": "Angular6Core2App",
-      "projectPath": "C:\\Projects_test\\Angular6Core2App\\Angular6Core2App\\Angular6Core2App.csproj",
+      "projectUniqueName": "C:\\Projects_test\\Angular6Core2App\\App.Web\\App.Web.csproj",
+      "projectName": "App.Web",
+      "projectPath": "C:\\Projects_test\\Angular6Core2App\\App.Web\\App.Web.csproj",
       "packagesPath": "C:\\Users\\michaelc\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects_test\\Angular6Core2App\\Angular6Core2App\\obj\\",
+      "outputPath": "C:\\Projects_test\\Angular6Core2App\\App.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

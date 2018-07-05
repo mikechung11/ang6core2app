@@ -1,0 +1,14 @@
+C:\Projects_test\Angular6Core2App\App.Web\bin\Debug\netcoreapp2.1\App.Web.deps.json
+C:\Projects_test\Angular6Core2App\App.Web\bin\Debug\netcoreapp2.1\App.Web.runtimeconfig.json
+C:\Projects_test\Angular6Core2App\App.Web\bin\Debug\netcoreapp2.1\App.Web.runtimeconfig.dev.json
+C:\Projects_test\Angular6Core2App\App.Web\bin\Debug\netcoreapp2.1\App.Web.dll
+C:\Projects_test\Angular6Core2App\App.Web\bin\Debug\netcoreapp2.1\App.Web.pdb
+C:\Projects_test\Angular6Core2App\App.Web\obj\Debug\netcoreapp2.1\App.Web.csprojAssemblyReference.cache
+C:\Projects_test\Angular6Core2App\App.Web\obj\Debug\netcoreapp2.1\App.Web.csproj.CoreCompileInputs.cache
+C:\Projects_test\Angular6Core2App\App.Web\obj\Debug\netcoreapp2.1\App.Web.RazorAssemblyInfo.cache
+C:\Projects_test\Angular6Core2App\App.Web\obj\Debug\netcoreapp2.1\App.Web.RazorAssemblyInfo.cs
+C:\Projects_test\Angular6Core2App\App.Web\obj\Debug\netcoreapp2.1\App.Web.AssemblyInfoInputs.cache
+C:\Projects_test\Angular6Core2App\App.Web\obj\Debug\netcoreapp2.1\App.Web.AssemblyInfo.cs
+C:\Projects_test\Angular6Core2App\App.Web\obj\Debug\netcoreapp2.1\App.Web.RazorTargetAssemblyInfo.cache
+C:\Projects_test\Angular6Core2App\App.Web\obj\Debug\netcoreapp2.1\App.Web.dll
+C:\Projects_test\Angular6Core2App\App.Web\obj\Debug\netcoreapp2.1\App.Web.pdb

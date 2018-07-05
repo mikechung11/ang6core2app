@@ -8,7 +8,7 @@ import { Http } from '@angular/http';
 })
 
 export class AppComponent {
-    title = 'app';
+    title = 'Heroes App (Test)';
     public values: string[];
 
     constructor(private http: Http) {

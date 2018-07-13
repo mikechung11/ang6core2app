@@ -10,6 +10,7 @@ var core_1 = require("@angular/core");
 var platform_browser_1 = require("@angular/platform-browser");
 var forms_1 = require("@angular/forms");
 var http_1 = require("@angular/common/http");
+var ng_bootstrap_1 = require("@ng-bootstrap/ng-bootstrap");
 var angular_in_memory_web_api_1 = require("angular-in-memory-web-api");
 var in_memory_data_service_1 = require("./in-memory-data.service");
 var app_routing_module_1 = require("./app-routing.module");
@@ -29,6 +30,7 @@ var AppModule = /** @class */ (function () {
                 forms_1.FormsModule,
                 app_routing_module_1.AppRoutingModule,
                 http_1.HttpClientModule,
+                ng_bootstrap_1.NgbModule.forRoot(),
                 // The HttpClientInMemoryWebApiModule module intercepts HTTP requests
                 // and returns simulated server responses.
                 // Remove it when a real server is ready to receive requests.
